@@ -1,0 +1,1403 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: TextMe\n"
+"PO-Revision-Date: 2020-10-02 09:46\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: en\n"
+
+msgid "Identity and Address"
+msgstr "Identity and Address"
+
+msgid "Phone Number Address"
+msgstr "Phone Number Address"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "\"%s\" is not a valid phone number"
+msgstr "\"%s\" is not a valid phone number"
+
+msgid "Oops"
+msgstr "Oops"
+
+msgid "Unable to reset your limit. If you think it's a problem, please contact the support team."
+msgstr "Unable to reset your limit. If you think it's a problem, please contact the support team."
+
+msgid "Daily limit reached"
+msgstr "Daily limit reached"
+
+msgid "That's it for today! Please try again tomorrow."
+msgstr "That's it for today! Please try again tomorrow."
+
+msgid "Oops!"
+msgstr "Oops!"
+
+msgid "You can not select a country in which the phone number is not free."
+msgstr "You can not select a country in which the phone number is not free."
+
+msgid "You can't select a paid phone number."
+msgstr "You can't select a paid phone number."
+
+msgid "This country is not currently supported."
+msgstr "This country is not currently supported."
+
+msgid "Can not allocate this number."
+msgstr "Can not allocate this number."
+
+msgid "Call forward feature is only available for premium user"
+msgstr "Call forward feature is only available for premium user"
+
+msgid "Call forward to %s is not allowed"
+msgstr "Call forward to %s is not allowed"
+
+msgid "Invalid token"
+msgstr "Invalid token"
+
+msgid "Invalid payload."
+msgstr "Invalid payload."
+
+msgid "Invalid signature."
+msgstr "Invalid signature."
+
+msgid "User account is disabled."
+msgstr "User account is disabled."
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgid "Unable to log in with provided credentials."
+msgstr "Unable to log in with provided credentials."
+
+msgid "Must include \"{username_field}\" and \"password\"."
+msgstr "Must include \"{username_field}\" and \"password\"."
+
+msgid "User or request is required."
+msgstr "User or request is required."
+
+msgid "Go Premium"
+msgstr "Go Premium"
+
+msgid "A Premium Subscription is required to access %s on the web. Our Premium plan includes tons of cool benefits, such as unlimited calls to US and Canada, no ads, and more!"
+msgstr "A Premium Subscription is required to access %s on the web. Our Premium plan includes tons of cool benefits, such as unlimited calls to US and Canada, no ads, and more!"
+
+msgid "No, thanks"
+msgstr "No, thanks"
+
+msgid "Sounds Good!"
+msgstr "Sounds Good!"
+
+msgid "Data may be altered between sign up steps."
+msgstr "Data may be altered between sign up steps."
+
+msgid "algorithm"
+msgstr "algorithm"
+
+msgid "hash"
+msgstr "hash"
+
+msgid "Enter a new password"
+msgstr "Enter a new password"
+
+msgid "Confirm it"
+msgstr "Confirm it"
+
+msgid "FreeTone - Remove email address"
+msgstr "FreeTone - Remove email address"
+
+msgid "Great news"
+msgstr "Great news"
+
+msgid "Your email address has been successfully deleted from our service."
+msgstr "Your email address has been successfully deleted from our service."
+
+msgid "Top TopUp - Remove email address"
+msgstr "Top TopUp - Remove email address"
+
+msgid "TextMe - Remove email address"
+msgstr "TextMe - Remove email address"
+
+msgid "TextMe Up - Remove email address"
+msgstr "TextMe Up - Remove email address"
+
+msgid "Hi there,"
+msgstr "Hi there,"
+
+msgid "Click to the button below to confirm the deletion of your email address from our service."
+msgstr "Click to the button below to confirm the deletion of your email address from our service."
+
+msgid "Confirm"
+msgstr "Confirm"
+
+msgid "We can not find any user matching the request."
+msgstr "We can not find any user matching the request."
+
+msgid "FreeTone - Password reset"
+msgstr "FreeTone - Password reset"
+
+msgid "Your password has been reset."
+msgstr "Your password has been reset."
+
+msgid "Return to FreeTone"
+msgstr "Return to FreeTone"
+
+msgid "TopTopUp - Password reset"
+msgstr "TopTopUp - Password reset"
+
+msgid "Return to TextMe"
+msgstr "Return to TextMe"
+
+msgid "TextMe Up - Password reset"
+msgstr "TextMe Up - Password reset"
+
+msgid "Return to TextMe Up"
+msgstr "Return to TextMe Up"
+
+msgid "FreeTone - Reset your password"
+msgstr "FreeTone - Reset your password"
+
+msgid "Reset your password"
+msgstr "Reset your password"
+
+msgid "Please enter your new password twice so we can verify you typed it in correctly."
+msgstr "Please enter your new password twice so we can verify you typed it in correctly."
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "The reset link was invalid, possibly because it has already been used."
+msgstr "The reset link was invalid, possibly because it has already been used."
+
+msgid "Please request a new password reset."
+msgstr "Please request a new password reset."
+
+msgid "TopTopUp - Reset your password"
+msgstr "TopTopUp - Reset your password"
+
+msgid "TextMe - Reset your password"
+msgstr "TextMe - Reset your password"
+
+msgid "TextMe Up - Reset your password"
+msgstr "TextMe Up - Reset your password"
+
+msgid "TextMe - Email verification"
+msgstr "TextMe - Email verification"
+
+msgid "Ooooopppps"
+msgstr "Ooooopppps"
+
+msgid "FreeTone - Email verification"
+msgstr "FreeTone - Email verification"
+
+msgid "Top TopUp - Email verification"
+msgstr "Top TopUp - Email verification"
+
+msgid "Return to Top TopUp"
+msgstr "Return to Top TopUp"
+
+msgid "TextMe Up - Email verification"
+msgstr "TextMe Up - Email verification"
+
+msgid "Thank you."
+msgstr "Thank you."
+
+msgid "Hi %(username)s,\n\nIt seems that the address email \"%(email)s\", you registered with, belongs to someone else.\n\nYou will not be able to log in using this email. Please update it in your profile page, so you don't loose access to your account.\n\nThe %(app_name)s Team"
+msgstr "Hi %(username)s,\n\nIt seems that the address email \"%(email)s\", you registered with, belongs to someone else.\n\nYou will not be able to log in using this email. Please update it in your profile page, so you don't loose access to your account.\n\nThe %(app_name)s Team"
+
+msgid "Apple"
+msgstr "Apple"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "No user matching this %s account."
+msgstr "No user matching this %s account."
+
+msgid "Male"
+msgstr "Male"
+
+msgid "Female"
+msgstr "Female"
+
+msgid "Use %s"
+msgstr "Use %s"
+
+msgid "Opt-in and restore features"
+msgstr "Opt-in and restore features"
+
+msgid "Do Not Sell My Information"
+msgstr "Do Not Sell My Information"
+
+msgid "Opt-in and get free service"
+msgstr "Opt-in and get free service"
+
+msgid "Do Not Sell My Personal Information"
+msgstr "Do Not Sell My Personal Information"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Processing"
+msgstr "Processing"
+
+msgid "Processed"
+msgstr "Processed"
+
+msgid "Failed"
+msgstr "Failed"
+
+msgid "Imported"
+msgstr "Imported"
+
+msgid "Account Not Deleted"
+msgstr "Account Not Deleted"
+
+msgid "Closed (Account not Deleted)"
+msgstr "Closed (Account not Deleted)"
+
+msgid "Preservation Order"
+msgstr "Preservation Order"
+
+msgid "Data Access"
+msgstr "Data Access"
+
+msgid "Data Deletion"
+msgstr "Data Deletion"
+
+msgid "TextMe iOS"
+msgstr "TextMe iOS"
+
+msgid "TextMe Up iOS"
+msgstr "TextMe Up iOS"
+
+msgid "FreeTone iOS"
+msgstr "FreeTone iOS"
+
+msgid "TextMe Android"
+msgstr "TextMe Android"
+
+msgid "TextMe Up Android"
+msgstr "TextMe Up Android"
+
+msgid "FreeTone Android"
+msgstr "FreeTone Android"
+
+msgid "TextMe Kindle"
+msgstr "TextMe Kindle"
+
+msgid "I Accept"
+msgstr "I Accept"
+
+msgid "Please review"
+msgstr "Please review"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "TextMe Partners"
+msgstr "TextMe Partners"
+
+msgid "Important information"
+msgstr "Important information"
+
+msgid "%s - Request"
+msgstr "%s - Request"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Password is not valid."
+msgstr "Password is not valid."
+
+msgid "Your Request"
+msgstr "Your Request"
+
+msgid "Your request has been completed."
+msgstr "Your request has been completed."
+
+msgid "Your request"
+msgstr "Your request"
+
+msgid "In order for us to authenticate your request, please enter your password. This action is not reversible."
+msgstr "In order for us to authenticate your request, please enter your password. This action is not reversible."
+
+msgid "Your request can not be processed. It might be due to a previous request for this account."
+msgstr "Your request can not be processed. It might be due to a previous request for this account."
+
+msgid "Unknown"
+msgstr "Unknown"
+
+msgid "Recovered Hold"
+msgstr "Recovered Hold"
+
+msgid "Renewed"
+msgstr "Renewed"
+
+msgid "Canceled"
+msgstr "Canceled"
+
+msgid "Purchased"
+msgstr "Purchased"
+
+msgid "Enter Hold"
+msgstr "Enter Hold"
+
+msgid "Enter Grace"
+msgstr "Enter Grace"
+
+msgid "Restored"
+msgstr "Restored"
+
+msgid "Your subscription is already active on another TextMe account. If you lost access to your old account, please contact the support team."
+msgstr "Your subscription is already active on another TextMe account. If you lost access to your old account, please contact the support team."
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Expired"
+msgstr "Expired"
+
+msgid "On hold"
+msgstr "On hold"
+
+msgid "Cancel by customer service"
+msgstr "Cancel by customer service"
+
+msgid "Grace period"
+msgstr "Grace period"
+
+msgid "Applied"
+msgstr "Applied"
+
+msgid "Reverted"
+msgstr "Reverted"
+
+msgid "Queued"
+msgstr "Queued"
+
+msgid "Local Outbound Call"
+msgstr "Local Outbound Call"
+
+msgid "Not_visible"
+msgstr "Not_visible"
+
+msgid "Visible"
+msgstr "Visible"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Not_required"
+msgstr "Not_required"
+
+msgid "Required"
+msgstr "Required"
+
+msgid "Required_in_country"
+msgstr "Required_in_country"
+
+msgid "username"
+msgstr "username"
+
+msgid "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
+msgstr "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
+
+msgid "Username must be Alphanumeric"
+msgstr "Username must be Alphanumeric"
+
+msgid "A user with that username already exists."
+msgstr "A user with that username already exists."
+
+msgid "email address"
+msgstr "email address"
+
+msgid "\"Me\" menu"
+msgstr "\"Me\" menu"
+
+msgid "\"Drawer\" menu"
+msgstr "\"Drawer\" menu"
+
+msgid "Welcome to %(country_name)s!\n\nEnjoy %(app_name)s from abroad! A friendly reminder that sending SMS from %(country_name)s will cost you 5 credits per SMS. Take a look at our rate finder (under %(rate_finder_location)s) for more details.\n\nWant to get Free SMS to US and Canada from any country in the World and enjoy an ad-free version? Go Premium!\n%(link)s\n\nThanks for using %(app_name)s."
+msgstr "Welcome to %(country_name)s!\n\nEnjoy %(app_name)s from abroad! A friendly reminder that sending SMS from %(country_name)s will cost you 5 credits per SMS. Take a look at our rate finder (under %(rate_finder_location)s) for more details.\n\nWant to get Free SMS to US and Canada from any country in the World and enjoy an ad-free version? Go Premium!\n%(link)s\n\nThanks for using %(app_name)s."
+
+msgid "TextMe - Email optout"
+msgstr "TextMe - Email optout"
+
+msgid "Hi "
+msgstr "Hi "
+
+msgid "FreeTone - Email optout"
+msgstr "FreeTone - Email optout"
+
+msgid "Top TopUp - Email optout"
+msgstr "Top TopUp - Email optout"
+
+msgid "TextMe Up - Email optout"
+msgstr "TextMe Up - Email optout"
+
+msgid "An error occurred while processing your request."
+msgstr "An error occurred while processing your request."
+
+msgid "No user match these informations. Please contact our support team if the problem persists."
+msgstr "No user match these informations. Please contact our support team if the problem persists."
+
+msgid "The token is not valid. Please contact our support team if the problem persists."
+msgstr "The token is not valid. Please contact our support team if the problem persists."
+
+msgid "%(value)s has no promotion! You can't use it as pattern!"
+msgstr "%(value)s has no promotion! You can't use it as pattern!"
+
+msgid "%(value)s is an unknown pattern!"
+msgstr "%(value)s is an unknown pattern!"
+
+msgid "Invalid Promo"
+msgstr "Invalid Promo"
+
+msgid "It seems that the token you are using is not valid anymore."
+msgstr "It seems that the token you are using is not valid anymore."
+
+msgid "IP(s) addresses differ"
+msgstr "IP(s) addresses differ"
+
+msgid "DEACTIVATED"
+msgstr "DEACTIVATED"
+
+msgid "ACTIVATED_STAND_BY"
+msgstr "ACTIVATED_STAND_BY"
+
+msgid "ACTIVATED_SENDING"
+msgstr "ACTIVATED_SENDING"
+
+msgid "DEACTIVATED_COMPLETED"
+msgstr "DEACTIVATED_COMPLETED"
+
+msgid "Identifiant for factory {fact_id} is unknown. Known factories : {factories}"
+msgstr "Identifiant for factory {fact_id} is unknown. Known factories : {factories}"
+
+msgid "The start date must be before the end date. Given, start: %(start)s and end : %(end)s"
+msgstr "The start date must be before the end date. Given, start: %(start)s and end : %(end)s"
+
+msgid "Inbound"
+msgstr "Inbound"
+
+msgid "Outbound"
+msgstr "Outbound"
+
+msgid "Message Received"
+msgstr "Message Received"
+
+msgid "Message Queued"
+msgstr "Message Queued"
+
+msgid "Message Sending"
+msgstr "Message Sending"
+
+msgid "Message Sent"
+msgstr "Message Sent"
+
+msgid "Message Error"
+msgstr "Message Error"
+
+msgid "Message Waiting"
+msgstr "Message Waiting"
+
+msgid "Message Delivered"
+msgstr "Message Delivered"
+
+msgid "Message Not Delivered"
+msgstr "Message Not Delivered"
+
+msgid "Message delivered to carrier"
+msgstr "Message delivered to carrier"
+
+msgid "Message not delivered to carrier"
+msgstr "Message not delivered to carrier"
+
+msgid "Statistical spam detected"
+msgstr "Statistical spam detected"
+
+msgid "Keyword spam detected"
+msgstr "Keyword spam detected"
+
+msgid "Spam detected"
+msgstr "Spam detected"
+
+msgid "Loop detected"
+msgstr "Loop detected"
+
+msgid "Destination carrier could not accept messages"
+msgstr "Destination carrier could not accept messages"
+
+msgid "Message submittion failed"
+msgstr "Message submittion failed"
+
+msgid "Destination application error"
+msgstr "Destination application error"
+
+msgid "Message not acknowledge"
+msgstr "Message not acknowledge"
+
+msgid "Destination Failure"
+msgstr "Destination Failure"
+
+msgid "Invalid destination number"
+msgstr "Invalid destination number"
+
+msgid "Invalid source number"
+msgstr "Invalid source number"
+
+msgid "Destination Rejected Message"
+msgstr "Destination Rejected Message"
+
+msgid "Destination Rejected Message too large"
+msgstr "Destination Rejected Message too large"
+
+msgid "Destination Rejected due to SPAM"
+msgstr "Destination Rejected due to SPAM"
+
+msgid "Rejected due to user opt out"
+msgstr "Rejected due to user opt out"
+
+msgid "Message Expired"
+msgstr "Message Expired"
+
+msgid "Unknown error"
+msgstr "Unknown error"
+
+msgid "This field is required"
+msgstr "This field is required"
+
+msgid "End date should be after start date."
+msgstr "End date should be after start date."
+
+msgid "\"%s\" has not been found"
+msgstr "\"%s\" has not been found"
+
+msgid "Download link for Subpoena %s"
+msgstr "Download link for Subpoena %s"
+
+msgid "Hi %(username)s\n\nHere is the link you can download the subpoena files from: %(link)s"
+msgstr "Hi %(username)s\n\nHere is the link you can download the subpoena files from: %(link)s"
+
+msgid "Running"
+msgstr "Running"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Basic Subscriber Informations"
+msgstr "Basic Subscriber Informations"
+
+msgid "Transactional Record"
+msgstr "Transactional Record"
+
+msgid "Emergency Request"
+msgstr "Emergency Request"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Integer"
+msgstr "Integer"
+
+msgid "Float"
+msgstr "Float"
+
+msgid "String"
+msgstr "String"
+
+msgid "Boolean"
+msgstr "Boolean"
+
+msgid "List"
+msgstr "List"
+
+msgid "Tuple"
+msgstr "Tuple"
+
+msgid "Dictionary"
+msgstr "Dictionary"
+
+msgid "Set"
+msgstr "Set"
+
+msgid "dict"
+msgstr "dict"
+
+msgid "list"
+msgstr "list"
+
+msgid "unique_string_list"
+msgstr "unique_string_list"
+
+msgid "unique_lower_string_list"
+msgstr "unique_lower_string_list"
+
+msgid "int"
+msgstr "int"
+
+msgid "float"
+msgstr "float"
+
+msgid "User must be authenticated"
+msgstr "User must be authenticated"
+
+msgid "Missing ICCID"
+msgstr "Missing ICCID"
+
+msgid "Customer not found"
+msgstr "Customer not found"
+
+msgid "Fulfilling"
+msgstr "Fulfilling"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "The password is not valid."
+msgstr "The password is not valid."
+
+msgid "Do you really want to delete permanently your account?"
+msgstr "Do you really want to delete permanently your account?"
+
+msgid "Few things you should know before you proceed:\n\n💡 you can change or delete your phone number instead\n🔺your calls and messages history will be suppressed on all your devices\n🔺 your account won’t be accessible anymore\n🔺 your credit balance will be lost forever\n"
+msgstr "Few things you should know before you proceed:\n\n💡 you can change or delete your phone number instead\n🔺your calls and messages history will be suppressed on all your devices\n🔺 your account won’t be accessible anymore\n🔺 your credit balance will be lost forever\n"
+
+msgid "Oops, I changed my mind!"
+msgstr "Oops, I changed my mind!"
+
+msgid "Delete my account forever."
+msgstr "Delete my account forever."
+
+msgid "Invalid short link"
+msgstr "Invalid short link"
+
+msgid "%(display_number)s tried to call your number %(from_phone)s. However, it seems that you are out of credit. Please refill your account if you want to enable the call forwarding feature!"
+msgstr "%(display_number)s tried to call your number %(from_phone)s. However, it seems that you are out of credit. Please refill your account if you want to enable the call forwarding feature!"
+
+msgid "Earned"
+msgstr "Earned"
+
+msgid "Gift"
+msgstr "Gift"
+
+msgid "Dear TextMe user,"
+msgstr "Dear TextMe user,"
+
+msgid "\nYour account seems to be inactive for more than 7 months now. We are sorry to announce that your credits have now expired! Don't worry though, you can still log into your account and earn more credits!\n\nSee you soon!\n"
+msgstr "\nYour account seems to be inactive for more than 7 months now. We are sorry to announce that your credits have now expired! Don't worry though, you can still log into your account and earn more credits!\n\nSee you soon!\n"
+
+msgid "\nWe have not seen activity on your account and your credit balance for the last 6 months. In order to avoid expiration of your TextMe credits, please log back into your account, and be active by sending a message or calling a friend! We are missing you!\n\nSincerely yours,\n"
+msgstr "\nWe have not seen activity on your account and your credit balance for the last 6 months. In order to avoid expiration of your TextMe credits, please log back into your account, and be active by sending a message or calling a friend! We are missing you!\n\nSincerely yours,\n"
+
+msgid "\nWe have not seen activity on your account for the last 6 months. We are sorry to announce that your credits have now expired! Don’t worry though, you can still log into your account and earn more credits!\n\nSee you soon!\n"
+msgstr "\nWe have not seen activity on your account for the last 6 months. We are sorry to announce that your credits have now expired! Don’t worry though, you can still log into your account and earn more credits!\n\nSee you soon!\n"
+
+msgid "\nWe have not seen activity on your TextMe account in the last 90 days (3 months!)! In order to avoid expiration of your TextMe credits, please log back into your account, and be active by sending a message or calling a friend! We are missing you!\n\nSincerely yours,\n"
+msgstr "\nWe have not seen activity on your TextMe account in the last 90 days (3 months!)! In order to avoid expiration of your TextMe credits, please log back into your account, and be active by sending a message or calling a friend! We are missing you!\n\nSincerely yours,\n"
+
+msgid "The TextMe Team"
+msgstr "The TextMe Team"
+
+msgid "<credits=40>"
+msgstr "<credits=40>"
+
+msgid "CREDITS"
+msgstr "CREDITS"
+
+msgid "<credits=100>"
+msgstr "<credits=100>"
+
+msgid "<credits=500>"
+msgstr "<credits=500>"
+
+msgid "<credits=1000>"
+msgstr "<credits=1000>"
+
+msgid "<credits=2000>"
+msgstr "<credits=2000>"
+
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+msgid "Unlimited calls"
+msgstr "Unlimited calls"
+
+msgid "Unlimited calls to any US and Canada phone number"
+msgstr "Unlimited calls to any US and Canada phone number"
+
+msgid "Remove Ads + Unlimited Calls"
+msgstr "Remove Ads + Unlimited Calls"
+
+msgid "+ secure your number + call forward!"
+msgstr "+ secure your number + call forward!"
+
+msgid "Remove Ads for 1 Month"
+msgstr "Remove Ads for 1 Month"
+
+msgid "Remove Ads from <string.app_name> for 1 Month"
+msgstr "Remove Ads from <string.app_name> for 1 Month"
+
+msgid "Credits packs"
+msgstr "Credits packs"
+
+msgid "Premium Subscriptions"
+msgstr "Premium Subscriptions"
+
+msgid "Ads removal"
+msgstr "Ads removal"
+
+msgid "Remove Ads - Lifetime"
+msgstr "Remove Ads - Lifetime"
+
+msgid "Remove all ad banners from <string.app_name> forever"
+msgstr "Remove all ad banners from <string.app_name> forever"
+
+msgid "Restore In-App Purchases"
+msgstr "Restore In-App Purchases"
+
+msgid "Watch a video"
+msgstr "Watch a video"
+
+msgid "Earn <credits=1> to <credits=2> credits"
+msgstr "Earn <credits=1> to <credits=2> credits"
+
+msgid "Complete an offer"
+msgstr "Complete an offer"
+
+msgid "Earn <credits=5> to <credits=100> credits"
+msgstr "Earn <credits=5> to <credits=100> credits"
+
+msgid "Watch a premium video"
+msgstr "Watch a premium video"
+
+msgid "<credits=1> to <credits=3> credits per offer"
+msgstr "<credits=1> to <credits=3> credits per offer"
+
+msgid "Buy credits packs"
+msgstr "Buy credits packs"
+
+msgid "Earn up to <credits=2000> credits"
+msgstr "Earn up to <credits=2000> credits"
+
+msgid "Invite friends"
+msgstr "Invite friends"
+
+msgid "Earn <credits=10> credits per friend up to <credits=100> credits!"
+msgstr "Earn <credits=10> credits per friend up to <credits=100> credits!"
+
+msgid "Unlimited calls to any 🇺🇸 and 🇨🇦 phone number"
+msgstr "Unlimited calls to any 🇺🇸 and 🇨🇦 phone number"
+
+msgid "+ secure your number +call forward!"
+msgstr "+ secure your number +call forward!"
+
+msgid "Unlimited texts and calls"
+msgstr "Unlimited texts and calls"
+
+msgid "Unlimited texts and calls to any US and Canada phone number"
+msgstr "Unlimited texts and calls to any US and Canada phone number"
+
+msgid "and secure your number too!"
+msgstr "and secure your number too!"
+
+msgid "<credits=200>"
+msgstr "<credits=200>"
+
+msgid "Our best offer"
+msgstr "Our best offer"
+
+msgid "Your number + unlimited calls to US & CA + call forwarding + ad-free experience"
+msgstr "Your number + unlimited calls to US & CA + call forwarding + ad-free experience"
+
+msgid "Our best seller"
+msgstr "Our best seller"
+
+msgid "Get a new number for 1 month and keep for longer if needed!"
+msgstr "Get a new number for 1 month and keep for longer if needed!"
+
+msgid "Get a new number for 1 week"
+msgstr "Get a new number for 1 week"
+
+msgid "Get a new number for 1 week and keep for longer if needed!"
+msgstr "Get a new number for 1 week and keep for longer if needed!"
+
+msgid "Get a new number for 3 months"
+msgstr "Get a new number for 3 months"
+
+msgid "Get a new number for 3 months and keep for longer if needed!"
+msgstr "Get a new number for 3 months and keep for longer if needed!"
+
+msgid "Get a new number for 1 year"
+msgstr "Get a new number for 1 year"
+
+msgid "Get a new number for 1 year and keep for longer if needed!"
+msgstr "Get a new number for 1 year and keep for longer if needed!"
+
+msgid "Extend your number for 1 more month."
+msgstr "Extend your number for 1 more month."
+
+msgid "Keep your number for 1 more week"
+msgstr "Keep your number for 1 more week"
+
+msgid "Extend your number for 1 more week."
+msgstr "Extend your number for 1 more week."
+
+msgid "Keep your number for 3 more months"
+msgstr "Keep your number for 3 more months"
+
+msgid "Extend your number for 3 more months."
+msgstr "Extend your number for 3 more months."
+
+msgid "Keep your number for 1 more year"
+msgstr "Keep your number for 1 more year"
+
+msgid "Extend your number for 1 more year."
+msgstr "Extend your number for 1 more year."
+
+msgid "Renew your number every month, seamlessly!"
+msgstr "Renew your number every month, seamlessly!"
+
+msgid "Renew your number every week, seamlessly!"
+msgstr "Renew your number every week, seamlessly!"
+
+msgid "Renew your number every year, seamlessly!"
+msgstr "Renew your number every year, seamlessly!"
+
+msgid "Go Premium & Lock your #"
+msgstr "Go Premium & Lock your #"
+
+msgid "& enjoy unlimited calls to US & Canada, call forwards and NO ads"
+msgstr "& enjoy unlimited calls to US & Canada, call forwards and NO ads"
+
+msgid "Special Offer"
+msgstr "Special Offer"
+
+msgid "Forget about your costly data plan!"
+msgstr "Forget about your costly data plan!"
+
+msgid "Lock your number"
+msgstr "Lock your number"
+
+msgid "+ Unlimited calls to US & CA + Call forwarding + Ad-free experience"
+msgstr "+ Unlimited calls to US & CA + Call forwarding + Ad-free experience"
+
+msgid "Go Premium - Our best offer"
+msgstr "Go Premium - Our best offer"
+
+msgid "Your number + unlimited calls to US & CA + ad-free experience + call forwarding"
+msgstr "Your number + unlimited calls to US & CA + ad-free experience + call forwarding"
+
+msgid "Plans"
+msgstr "Plans"
+
+msgid "Unlimited Calls, call forwards"
+msgstr "Unlimited Calls, call forwards"
+
+msgid "Subscriptions*"
+msgstr "Subscriptions*"
+
+msgid "Secure your number"
+msgstr "Secure your number"
+
+msgid "Tap to activate!"
+msgstr "Tap to activate!"
+
+msgid "Go premium for 1 week"
+msgstr "Go premium for 1 week"
+
+msgid "Play a game"
+msgstr "Play a game"
+
+msgid "Earn <credits=1> to <credits=3> credits"
+msgstr "Earn <credits=1> to <credits=3> credits"
+
+msgid "Get a new phone number"
+msgstr "Get a new phone number"
+
+msgid "Pick a new local or international phone number and start using it in seconds!"
+msgstr "Pick a new local or international phone number and start using it in seconds!"
+
+msgid "No Ads + Unlimited Communication"
+msgstr "No Ads + Unlimited Communication"
+
+msgid "Secure your number, call forwarding & More"
+msgstr "Secure your number, call forwarding & More"
+
+msgid "Your number + ad-free experience + change your number when needed + call forwarding"
+msgstr "Your number + ad-free experience + change your number when needed + call forwarding"
+
+msgid "Earn FREE credits"
+msgstr "Earn FREE credits"
+
+msgid "* Subscriptions are auto-rewable in-app purchases.\n\n• Payment will be charged to iTunes Account at confirmation of purchase\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n"
+msgstr "* Subscriptions are auto-rewable in-app purchases.\n\n• Payment will be charged to iTunes Account at confirmation of purchase\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Remove Ads + 600 min."
+msgstr "Remove Ads + 600 min."
+
+msgid "Remove Ads + 150 min."
+msgstr "Remove Ads + 150 min."
+
+msgid "Private Hotspot Proxy"
+msgstr "Private Hotspot Proxy"
+
+msgid "Unlimited time & unlimited data! Fast connection! Protect your identity and surf privately."
+msgstr "Unlimited time & unlimited data! Fast connection! Protect your identity and surf privately."
+
+msgid "Data Plans"
+msgstr "Data Plans"
+
+msgid "Data valid for one day, with plans starting at 300 MB."
+msgstr "Data valid for one day, with plans starting at 300 MB."
+
+msgid "Text and call with your own data. 15-day plans starting at 1 GB."
+msgstr "Text and call with your own data. 15-day plans starting at 1 GB."
+
+msgid "Connect to the web, with data plans good for 30 days, starting at 1 GB."
+msgstr "Connect to the web, with data plans good for 30 days, starting at 1 GB."
+
+msgid "Text + Call without WiFi!"
+msgstr "Text + Call without WiFi!"
+
+msgid "Stay connected without WiFi!"
+msgstr "Stay connected without WiFi!"
+
+msgid "Use your phone without WiFi! "
+msgstr "Use your phone without WiFi! "
+
+msgid "Connect without WiFi!"
+msgstr "Connect without WiFi!"
+
+msgid "Text and call with your own data. 7-day plans starting at 1 GB."
+msgstr "Text and call with your own data. 7-day plans starting at 1 GB."
+
+msgid "Hey, it's %s from the TextMe App, get it too for FREE at [LINK] and let's Text, Talk and VideoChat!"
+msgstr "Hey, it's %s from the TextMe App, get it too for FREE at [LINK] and let's Text, Talk and VideoChat!"
+
+msgid "Hey it's %s, I just sent you a message. Install TextMe to read it! [LINK]"
+msgstr "Hey it's %s, I just sent you a message. Install TextMe to read it! [LINK]"
+
+msgid "Hello, it is %s. How are you? There is something I wanted to show you on TextMe [LINK]"
+msgstr "Hello, it is %s. How are you? There is something I wanted to show you on TextMe [LINK]"
+
+msgid "Hi, it is %s. How are you? There is something I wanted to show you [LINK]"
+msgstr "Hi, it is %s. How are you? There is something I wanted to show you [LINK]"
+
+msgid "Hey, it is %s. Can you install TextMe please? That'll save a lot of money when I call and text you. Thanks! [LINK]"
+msgstr "Hey, it is %s. Can you install TextMe please? That'll save a lot of money when I call and text you. Thanks! [LINK]"
+
+msgid "Hey, it is %s. How are you? Did you know you can text for free on TextMe? [LINK]"
+msgstr "Hey, it is %s. How are you? Did you know you can text for free on TextMe? [LINK]"
+
+msgid "Hey it's %s, how are you? I just sent you a message. Can you install TextMe to read it, please? [LINK]"
+msgstr "Hey it's %s, how are you? I just sent you a message. Can you install TextMe to read it, please? [LINK]"
+
+msgid "Hey it's %s, try this App and call anyone in El Salvador for Free! [LINK]"
+msgstr "Hey it's %s, try this App and call anyone in El Salvador for Free! [LINK]"
+
+msgid "Hey it's %s, try this App and text anyone in El Salvador for Free! [LINK]"
+msgstr "Hey it's %s, try this App and text anyone in El Salvador for Free! [LINK]"
+
+msgid "sent by %s via textme.us"
+msgstr "sent by %s via textme.us"
+
+msgid "Text %s back for free with Textme [LINK]"
+msgstr "Text %s back for free with Textme [LINK]"
+
+msgid "Stop paying for sms NOW with TextMe [LINK]"
+msgstr "Stop paying for sms NOW with TextMe [LINK]"
+
+msgid "Call %s back for free with TextMe [LINK]"
+msgstr "Call %s back for free with TextMe [LINK]"
+
+msgid "%s is waiting for you on TextMe [LINK]"
+msgstr "%s is waiting for you on TextMe [LINK]"
+
+msgid "%s is on TextMe. Wanna join? [LINK]"
+msgstr "%s is on TextMe. Wanna join? [LINK]"
+
+msgid "Hey it is %s. Can you install TextMe please so we can call and text each other for free? [LINK]"
+msgstr "Hey it is %s. Can you install TextMe please so we can call and text each other for free? [LINK]"
+
+msgid "short_url"
+msgstr "short_url"
+
+msgid "Hey it's %s, With TextMe you can call for free any number in the world for FREE!\nTry it out! [LINK]\n"
+msgstr "Hey it's %s, With TextMe you can call for free any number in the world for FREE!\nTry it out! [LINK]\n"
+
+msgid "📲 Call forwarding & 🔎 Number Lookup"
+msgstr "📲 Call forwarding & 🔎 Number Lookup"
+
+msgid "♻️ Change your number if needed"
+msgstr "♻️ Change your number if needed"
+
+msgid "BUY <PRICE>/<SUB_PERIOD>"
+msgstr "BUY <PRICE>/<SUB_PERIOD>"
+
+msgid "<PRICE>/<SUB_PERIOD>"
+msgstr "<PRICE>/<SUB_PERIOD>"
+
+msgid "📌 Keep your phone number"
+msgstr "📌 Keep your phone number"
+
+msgid "🚫 Remove ads"
+msgstr "🚫 Remove ads"
+
+msgid "✳️ Terms apply - Learn more"
+msgstr "✳️ Terms apply - Learn more"
+
+msgid "No Ads + Secure your Number & More!"
+msgstr "No Ads + Secure your Number & More!"
+
+msgid "For the price of only 2 ☕️, you get access to premium features:\n\n"
+msgstr "For the price of only 2 ☕️, you get access to premium features:\n\n"
+
+msgid "✅ Receive activation texts & Short Codes texts"
+msgstr "✅ Receive activation texts & Short Codes texts"
+
+msgid "Subscription"
+msgstr "Subscription"
+
+msgid "100 <string.app_name> Credits"
+msgstr "100 <string.app_name> Credits"
+
+msgid "Additional number"
+msgstr "Additional number"
+
+msgid "500 <string.app_name> Credits"
+msgstr "500 <string.app_name> Credits"
+
+msgid "Up to 1000 minutes of communication or up to 200 international text messages"
+msgstr "Up to 1000 minutes of communication or up to 200 international text messages"
+
+msgid "No Ads + Unlimited Calls"
+msgstr "No Ads + Unlimited Calls"
+
+msgid "Earn 10 credits per friend up to 100 credits!"
+msgstr "Earn 10 credits per friend up to 100 credits!"
+
+msgid "Ooops..."
+msgstr "Ooops..."
+
+msgid "Up to 500 minutes of communication or up to 100 international text messages"
+msgstr "Up to 500 minutes of communication or up to 100 international text messages"
+
+msgid "Up to 2000 minutes of communication or up to 400 international text messages"
+msgstr "Up to 2000 minutes of communication or up to 400 international text messages"
+
+msgid "Earn 1 to 2 credits"
+msgstr "Earn 1 to 2 credits"
+
+msgid "1 to 3 credits per offer"
+msgstr "1 to 3 credits per offer"
+
+msgid "Earn up to 2000 credits"
+msgstr "Earn up to 2000 credits"
+
+msgid "Get an additional number in 30 seconds"
+msgstr "Get an additional number in 30 seconds"
+
+msgid "1000 <string.app_name> Credits"
+msgstr "1000 <string.app_name> Credits"
+
+msgid "loading..."
+msgstr "loading..."
+
+msgid "Other Services & Packs"
+msgstr "Other Services & Packs"
+
+msgid "2000 <string.app_name> Credits"
+msgstr "2000 <string.app_name> Credits"
+
+msgid "Best Sellers"
+msgstr "Best Sellers"
+
+msgid "Earn 5 to 100 credits"
+msgstr "Earn 5 to 100 credits"
+
+msgid "Up to 100 minutes of communication or up to 20 international text messages"
+msgstr "Up to 100 minutes of communication or up to 20 international text messages"
+
+msgid "✳️ Terms of use"
+msgstr "✳️ Terms of use"
+
+msgid "✳️ Privacy Policy"
+msgstr "✳️ Privacy Policy"
+
+msgid "🌱 Cleaner experience"
+msgstr "🌱 Cleaner experience"
+
+msgid "For the price of 1 ☕️ enjoy a lighter, faster and cleaner experience without ads"
+msgstr "For the price of 1 ☕️ enjoy a lighter, faster and cleaner experience without ads"
+
+msgid "⛔️ Block fullscreen ads"
+msgstr "⛔️ Block fullscreen ads"
+
+msgid "Details ▼\n\nSubscriptions are auto-rewable in-app purchases.\n\n• Payment will be charged to iTunes Account at confirmation of purchase\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n"
+msgstr "Details ▼\n\nSubscriptions are auto-rewable in-app purchases.\n\n• Payment will be charged to iTunes Account at confirmation of purchase\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n"
+
+msgid "Learn more"
+msgstr "Learn more"
+
+msgid "🚫 Block ad banners"
+msgstr "🚫 Block ad banners"
+
+msgid "🏎 Faster app"
+msgstr "🏎 Faster app"
+
+msgid "Ad Blocker!"
+msgstr "Ad Blocker!"
+
+msgid "Unlimited calls to any US &CA + 1 Number & more..."
+msgstr "Unlimited calls to any US &CA + 1 Number & more..."
+
+msgid "Premium Features"
+msgstr "Premium Features"
+
+msgid "10000 <string.app_name> Credits"
+msgstr "10000 <string.app_name> Credits"
+
+msgid "Earn 10 to 20 credits"
+msgstr "Earn 10 to 20 credits"
+
+msgid "10 to 30 credits per offer"
+msgstr "10 to 30 credits per offer"
+
+msgid "20000 <string.app_name> Credits"
+msgstr "20000 <string.app_name> Credits"
+
+msgid "Earn 50 to 1000 credits"
+msgstr "Earn 50 to 1000 credits"
+
+msgid "5000 <string.app_name> Credits"
+msgstr "5000 <string.app_name> Credits"
+
+msgid "Earn up to 20000 credits"
+msgstr "Earn up to 20000 credits"
+
+msgid "Earn 100 credits per friend up to 1000 credits!"
+msgstr "Earn 100 credits per friend up to 1000 credits!"
+
+msgid "2000"
+msgstr "2000"
+
+msgid "500"
+msgstr "500"
+
+msgid "200"
+msgstr "200"
+
+msgid "100"
+msgstr "100"
+
+msgid "40"
+msgstr "40"
+
+msgid "1000"
+msgstr "1000"
+
+msgid "And secure your number too!"
+msgstr "And secure your number too!"
+
+msgid "For the price of only 2 🌮, you get access to premium features:\n\n"
+msgstr "For the price of only 2 🌮, you get access to premium features:\n\n"
+
+msgid "No Ads + 600 min. of Voice & More!"
+msgstr "No Ads + 600 min. of Voice & More!"
+
+msgid "📞 Call 🇬🇧 for Free with 600 min. included"
+msgstr "📞 Call 🇬🇧 for Free with 600 min. included"
+
+msgid "💌 Unlimited texts to 🇬🇧"
+msgstr "💌 Unlimited texts to 🇬🇧"
+
+msgid "Up to 200 minutes of communication or up to 40 international text messages"
+msgstr "Up to 200 minutes of communication or up to 40 international text messages"
+
+msgid "200 <string.app_name> Credits"
+msgstr "200 <string.app_name> Credits"
+
+msgid "40 <string.app_name> Credits"
+msgstr "40 <string.app_name> Credits"
+
+msgid "Up to 40 minutes of communication or up to 8 international text messages"
+msgstr "Up to 40 minutes of communication or up to 8 international text messages"
+
+msgid "Unlimited texts & calls"
+msgstr "Unlimited texts & calls"
+
+msgid "Unlimited texts & calls to any US and Canada phone number"
+msgstr "Unlimited texts & calls to any US and Canada phone number"
+
+msgid "📞 Call 🇬🇧 for Free with 150 min. included"
+msgstr "📞 Call 🇬🇧 for Free with 150 min. included"
+
+msgid "For the price of only 1 🐟🍟, you get access to premium features:"
+msgstr "For the price of only 1 🐟🍟, you get access to premium features:"
+
+msgid "Details ▼\n\nSubscriptions are auto-renewable in-app purchases.\n\n• Payment will be charged to iTunes Account at confirmation of purchase\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n"
+msgstr "Details ▼\n\nSubscriptions are auto-renewable in-app purchases.\n\n• Payment will be charged to iTunes Account at confirmation of purchase\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n"
+
+msgid "No Ads + 150 min. of Voice & More!"
+msgstr "No Ads + 150 min. of Voice & More!"
+
+msgid "5000"
+msgstr "5000"
+
+msgid "10000"
+msgstr "10000"
+
+msgid "400"
+msgstr "400"
+
+msgid "20000"
+msgstr "20000"
+
+msgid "No Ads + Unlimited Calls & More!"
+msgstr "No Ads + Unlimited Calls & More!"
+
+msgid "📞 Unlimited calls & 💬 texts to 🇺🇸 & 🇨🇦"
+msgstr "📞 Unlimited calls & 💬 texts to 🇺🇸 & 🇨🇦"
+
+msgid "For the price of only 2 ☕️, you get access to premium features:"
+msgstr "For the price of only 2 ☕️, you get access to premium features:"
+
+msgid "+50%"
+msgstr "+50%"
+
+msgid " + Unlimited Calls to 🇺🇸 & 🇨🇦\n + Secure your number\n"
+msgstr " + Unlimited Calls to 🇺🇸 & 🇨🇦\n + Secure your number\n"
+
+msgid "Call Forward + Remove Ads"
+msgstr "Call Forward + Remove Ads"
+
+msgid "For the price of only 2 🌮, you get access to premium features:"
+msgstr "For the price of only 2 🌮, you get access to premium features:"
+
+msgid "Remove all ad banners forever"
+msgstr "Remove all ad banners forever"
+
+msgid "Earn up to 25 credits"
+msgstr "Earn up to 25 credits"
+
+msgid "promo"
+msgstr "promo"
+
+msgid "123cts"
+msgstr "123cts"
+
+msgid "-50%"
+msgstr "-50%"
+
+msgid "x2"
+msgstr "x2"
+
+msgid "Free call US one month"
+msgstr "Free call US one month"
+
+msgid "X2 on this credit pack"
+msgstr "X2 on this credit pack"
+
+msgid "Call for free US and Canada for a month"
+msgstr "Call for free US and Canada for a month"
+
+msgid "HIDE"
+msgstr "HIDE"
+
+msgid "Offer Of the Day"
+msgstr "Offer Of the Day"
+
+msgid "Double Credits weekend"
+msgstr "Double Credits weekend"
+
+msgid "50% OFF on this credit pack"
+msgstr "50% OFF on this credit pack"
+
+msgid "Buy credits"
+msgstr "Buy credits"
+
+msgid "Recharge quickly"
+msgstr "Recharge quickly"
+
+msgid "Offer is valid from 9/24/16 through 9/27/16"
+msgstr "Offer is valid from 9/24/16 through 9/27/16"
+
+msgid "Today only!"
+msgstr "Today only!"
+
+msgid "File your taxes online with H&R Block"
+msgstr "File your taxes online with H&R Block"
+
+msgid "MORE"
+msgstr "MORE"
+
+msgid "400 <string.app_name> Credits"
+msgstr "400 <string.app_name> Credits"
+
+msgid "<PRICE>/week"
+msgstr "<PRICE>/week"
+
+msgid "🌎 Connect from 400+ virtual locations"
+msgstr "🌎 Connect from 400+ virtual locations"
+
+msgid "👁‍🗨 Privacy: Stay anonymous while browsing"
+msgstr "👁‍🗨 Privacy: Stay anonymous while browsing"
+
+msgid "TextMe recommends VPN 4U to add a level of security and privacy to your browsing"
+msgstr "TextMe recommends VPN 4U to add a level of security and privacy to your browsing"
+
+msgid "🔄 Unlimited Data & Time: No usage limits!"
+msgstr "🔄 Unlimited Data & Time: No usage limits!"
+
+msgid "Download from the App Store"
+msgstr "Download from the App Store"
+
+msgid "⚡️ Fast Speeds: High speed access"
+msgstr "⚡️ Fast Speeds: High speed access"
+
+msgid "Privacy, Security, Unlimited Data & More!"
+msgstr "Privacy, Security, Unlimited Data & More!"
+
+msgid "🔐 Security: Connect safely to any hotspot"
+msgstr "🔐 Security: Connect safely to any hotspot"
+
+msgid "Unlimited Communication to 🇺🇸 and 🇨🇦"
+msgstr "Unlimited Communication to 🇺🇸 and 🇨🇦"
+
+msgid "Enjoy a promotional introductory price"
+msgstr "Enjoy a promotional introductory price"
+
+msgid "Earn up to 1000 credits"
+msgstr "Earn up to 1000 credits"
+
+msgid "For the price of only 1 🐟🍟, you get access to premium features:\n\n"
+msgstr "For the price of only 1 🐟🍟, you get access to premium features:\n\n"
+
+msgid "Earn up to 10000 credits"
+msgstr "Earn up to 10000 credits"
